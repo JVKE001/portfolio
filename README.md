@@ -30,13 +30,13 @@ A modern, responsive, and fully functional **developer portfolio** built with th
 git clone https://github.com/JVKE001/portfolio.git
 
 ```
-###2. Navigate to the project directory
+### 2. Navigate to the project directory
 
 ```
 cd portfolio
 ```
 
-###3. Install Dependencies
+### 3. Install Dependencies
 
 ```
 npm install
