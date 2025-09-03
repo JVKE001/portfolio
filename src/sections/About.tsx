@@ -25,7 +25,7 @@ const About = () => {
           </p>
 
           <p>
-            Outside of coding, I’m learning <strong>Shopify</strong>, reviewing{" "}
+            Outside of coding, I’m learning
             <strong>Python</strong>, and preparing for my{" "}
             <strong>BCA degree at IGNOU</strong>. Whether it's setting up APIs
             or debugging UI at midnight. I’m always excited to build.
