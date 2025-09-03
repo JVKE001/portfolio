@@ -4,7 +4,7 @@ A modern, responsive, and fully functional **developer portfolio** built with th
 
 ## 📸 Live Preview
 
-[🔗 View Live Portfolio](https://68865c24500f797a57b33686--curious-cascaron-8c303a.netlify.app/)
+[🔗 View Live Portfolio](https://curious-cascaron-8c303a.netlify.app/)
 
 ## 🧰 Tech Stack
 
