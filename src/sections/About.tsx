@@ -9,7 +9,7 @@ const About = () => {
 
         <div className="space-y-6 text-base sm:text-lg leading-relaxed font-medium">
           <p>
-            Hello! I’m <strong>Shubham (JVKE)</strong> — a passionate full stack
+            Hello! I’m <strong>Shubham (JVKE)</strong> a passionate full stack
             developer who loves turning ideas into powerful web experiences. I
             specialize in building modern, responsive apps using the{" "}
             <strong>MERN stack</strong>, and I'm currently diving into{" "}
@@ -20,7 +20,7 @@ const About = () => {
           <p>
             My journey began with curiosity and evolved into a deep love for
             crafting clean UIs and scalable backends. From e-commerce platforms
-            to feedback systems, I’ve built full-stack projects — learning from
+            to feedback systems, I’ve built full-stack projects learning from
             every success and blunder.
           </p>
 
@@ -28,7 +28,7 @@ const About = () => {
             Outside of coding, I’m learning <strong>Shopify</strong>, reviewing{" "}
             <strong>Python</strong>, and preparing for my{" "}
             <strong>BCA degree at IGNOU</strong>. Whether it's setting up APIs
-            or debugging UI at midnight — I’m always excited to build.
+            or debugging UI at midnight. I’m always excited to build.
           </p>
 
           <p>
