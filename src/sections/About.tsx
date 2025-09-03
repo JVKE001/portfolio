@@ -32,14 +32,14 @@ const About = () => {
           </p>
 
           <p>
-            I also have a strong <strong>American accent</strong> — not just for
+            I also have a strong <strong>American accent</strong> not just for
             style, but for clarity, confidence, and connecting with clients and
             collaborators globally.
           </p>
 
           <p>
             Music keeps me grounded, and <strong>Billie Eilish</strong> fuels my
-            vibe. Her raw emotion and minimalism inspire not just playlists —
+            vibe. Her raw emotion and minimalism inspire not just playlists,
             but also how I write and design clean code.
           </p>
 
