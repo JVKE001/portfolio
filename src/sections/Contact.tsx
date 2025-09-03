@@ -35,7 +35,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="text-blue-600 underline"
             >
-              github.com/JVKE001
+              github.com/jvke001
             </a>
           </li>
 
